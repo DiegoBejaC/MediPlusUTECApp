@@ -1,0 +1,7 @@
+DESCRIPCIÓN DEL SISTEMA ----------
+
+Este proyecto consiste en una aplicación que brinda al usuario información sobre las diferentes farmacias ubicadas en el centro de El Salvador, así como un listado de medicamentos y su información general. Todo esto con el objetivo de lograr que los usuarios que descarguen la app tengan acceso a estos datos de manera más sencilla y rápida.
+
+Esta aplicación se ha creado para un proyecto grupal para la asignatura electiva técnica 3 de la carrera de Ingeniería en Sistemas de la Universidad Tecnológica de El Salvador (UTEC).
+
+La aplicación fue creada en Flutter, utilizando el IDE Visual Studio Code. Se ha hecho uso de la librería de Google Maps obtenida desde una cuenta Google Cloud para mostrar los mapas de las sucursales de las farmacias. Además, se han almacenado los datos de las farmacias, medicinas y usuarios dentro de una base de datos no relacional, la cual es Firebase, precisamente Cloud Firestore. Por ahora la aplicación no ha sido publicada por la razón de que fue únicamente para propósitos académicos.
